@@ -1,8 +1,7 @@
-# Git 入門
+# Git 入門 を完了しました
 
-@Iorin-13 さん、演習を開始しました。
+@Iorin-13 さん、演習お疲れさまでした。
 
-手順は次の Issue に投稿されています。
-
-[演習 Issue を開く](https://github.com/Iorin-13/skills-introduction-to-git/issues/1)
+- 演習 Issue: https://github.com/Iorin-13/skills-introduction-to-git/issues/1
+- リポジトリ: https://github.com/Iorin-13/skills-introduction-to-git
 
